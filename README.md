@@ -1,4 +1,4 @@
-# Hi, I'm Varsha Rajashekar 👋
+# Hi, I'm Varsha Rajashekar
 
 Cloud & DevOps Engineer focused on AWS, Terraform, CI/CD, Kubernetes, and Observability.
 
@@ -6,7 +6,7 @@ Cloud & DevOps Engineer focused on AWS, Terraform, CI/CD, Kubernetes, and Observ
 
 Currently building production-style cloud projects focused on Infrastructure Automation, Monitoring, and Reliability Engineering.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### AWS Multi-Tier Infrastructure with Terraform
 
@@ -24,7 +24,7 @@ Built Jenkins and GitHub Actions pipelines for automated testing and deployment 
 
 Automated Kubernetes deployments using GitOps principles and ArgoCD.
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: www.linkedin.com/in/varsha-rajashekar
 
