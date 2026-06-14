@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Varsha Rajashekar 👋
 
-<!--
-**VarshaRajashekar/VarshaRajashekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer focused on AWS, Terraform, CI/CD, Kubernetes, and Observability.
 
-Here are some ideas to get you started:
+🔹 AWS | Terraform | Docker | Kubernetes | Jenkins | GitHub Actions | CloudWatch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building production-style cloud projects focused on Infrastructure Automation, Monitoring, and Reliability Engineering.
+
+## 🚀 Featured Projects
+
+### AWS Multi-Tier Infrastructure with Terraform
+
+Provisioned VPC, ALB, EC2, RDS, Security Groups, and automated infrastructure deployment using Terraform.
+
+### AWS Observability Platform
+
+Implemented CloudWatch dashboards, alarms, log monitoring, and automated notifications.
+
+### CI/CD Pipeline Automation
+
+Built Jenkins and GitHub Actions pipelines for automated testing and deployment workflows.
+
+### GitOps on Kubernetes
+
+Automated Kubernetes deployments using GitOps principles and ArgoCD.
+
+## 📫 Connect With Me
+
+* LinkedIn: Your LinkedIn URL
+* Email: Your Professional Email
