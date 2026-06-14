@@ -26,5 +26,5 @@ Automated Kubernetes deployments using GitOps principles and ArgoCD.
 
 ## 📫 Connect With Me
 
-* LinkedIn: Your LinkedIn URL
-* Email: Your Professional Email
+* LinkedIn: www.linkedin.com/in/varsha-rajashekar
+
